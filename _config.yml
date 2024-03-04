@@ -1,13 +1,1 @@
-title: WebDevelopment
-description: A brief description of your website.
-baseurl: "" # Leave it empty if you are hosting at the root of your domain
-url: "https://yourdomain.com" # Your domain URL
 theme: jekyll-theme-cayman
-
-social:
-  - title: GitHub
-    url: https://github.com/hamdan587
-
-# Build settings
-markdown: kramdown
-permalink: pretty
